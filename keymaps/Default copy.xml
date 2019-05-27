@@ -1,5 +1,6 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -31,11 +32,23 @@
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="TodoViewGroupByShowPackages" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
