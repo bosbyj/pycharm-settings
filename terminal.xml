@@ -1,9 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <envs>
-      <env key="LC_ALL" value="en_US.UTF-8" />
-    </envs>
-    <option name="myShellPath" value="D:\Portables\cmder\vendor\git-for-windows\bin\bash.exe" />
+    <option name="myShellPath" value="C:\Portables\git-for-windows\bin\bash.exe" />
     <option name="myTabName" value="Git Bash" />
   </component>
 </application>
