@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Black then Save All">
+      <action id="Tool_External Tools_Black" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>

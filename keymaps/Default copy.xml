@@ -46,10 +46,14 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="Macro.Black then Save All">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
